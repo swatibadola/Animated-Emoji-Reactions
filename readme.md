@@ -1,7 +1,5 @@
 # Animated-Emoji-Reactions
-I developed a collection of animated emoji reactions, similar to the ones you encounter in Google Meet, using JavaScript.”
-
-Feel free to adjust it further or let me know if you need any additional changes! 😊
+I developed a collection of animated emoji reactions, similar to the ones you encounter in Google Meet, using JavaScript.
 
 # Notes
 
